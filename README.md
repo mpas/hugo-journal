@@ -8,6 +8,8 @@ It is a simple template containing a nice header menu bar and content area. Defa
 * pages (used for About/Resume pages)
 * posts (used for standard blogposts)
 
+# Screenshots
+
 #### Index Page
 ![index](http://mpas.github.io/img/hugo-journal/index.png)
 
