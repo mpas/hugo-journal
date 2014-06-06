@@ -1,4 +1,4 @@
-hugo-journal-theme
+hugo-themes
 ==================
 
-Basic Bootstrap theme based on Journal from Bootswatch.
+Themes usable for Hugo Static Site Generator
