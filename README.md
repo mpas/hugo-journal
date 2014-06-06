@@ -9,6 +9,11 @@ It is a simple template containing a nice header menu bar and content area. Defa
 * posts (used for standard blogposts)
 
 
+![index](http://mpas.github.io/img/hugo-journal/index.png)
+
+![post](http://mpas.github.io/img/hugo-journal/post.png)
+
+![list](http://mpas.github.io/img/hugo-journal/list.png)
 
 # License
 License
