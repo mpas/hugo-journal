@@ -25,6 +25,4 @@ It is a simple template containing a nice header menu bar and content area. Defa
 Or read more on the main Hugo site -> [Installing Hugo Themes](http://hugo.spf13.com/themes/installing)
 
 # License
-License
-
 Open sourced under the MIT license.
