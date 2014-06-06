@@ -1,4 +1,4 @@
-hugo-themes
+hugo-journal
 ==================
 
-Themes usable for Hugo Static Site Generator
+Theme usable for Hugo Static Site Generator

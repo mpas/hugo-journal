@@ -1,0 +1,10 @@
+name = "hugo-journal"
+license = "MIT"
+source_repo = ""
+description = "Hugo theme based on Twitter BootStrap and Journal CSS theme"
+tags = ["post", "category"]
+categories = ["featured"]
+
+[author]
+    name = "Marco Pas"
+    email = "marco.pasopas@gmail.com"
