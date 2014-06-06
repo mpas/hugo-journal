@@ -19,6 +19,11 @@ It is a simple template containing a nice header menu bar and content area. Defa
 #### List Page
 ![list](http://mpas.github.io/img/hugo-journal/list.png)
 
+# How to use
+* [Download the repository](https://github.com/mpas/hugo-journal/archive/master.zip) and extract to your hugo working directory (<dir>/themes/<themename>
+
+Or read more on the main Hugo site -> [Installing Hugo Themes](http://hugo.spf13.com/themes/installing)
+
 # License
 License
 
