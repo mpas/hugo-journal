@@ -11,13 +11,13 @@ It is a simple template containing a nice header menu bar and content area. Defa
 # Screenshots
 
 #### Index Page
-![index](http://mpas.github.io/img/hugo-journal/index.png)
+![index](http://mpas.github.io/_hosted/img/hugo-journal/index.png)
 
 #### Post Page
-![post](http://mpas.github.io/img/hugo-journal/post.png)
+![post](http://mpas.github.io/_hosted/img/hugo-journal/post.png)
 
 #### List Page
-![list](http://mpas.github.io/img/hugo-journal/list.png)
+![list](http://mpas.github.io/_hosted/img/hugo-journal/list.png)
 
 # How to use
 * [Download the repository](https://github.com/mpas/hugo-journal/archive/master.zip) and extract to your hugo working directory (<dir>/themes/<themename>
