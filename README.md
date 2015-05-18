@@ -10,13 +10,13 @@ It is a simple template containing a nice header menu bar and content area. Defa
 
 # Screenshots
 
-#### Index Page
+## Index Page
 ![index](http://mpas.github.io/hosted/img/hugo-journal/index.png)
 
-#### Post Page
+## Post Page
 ![post](http://mpas.github.io/hosted/img/hugo-journal/post.png)
 
-#### List Page
+## List Page
 ![list](http://mpas.github.io/hosted/img/hugo-journal/list.png)
 
 # How to use
